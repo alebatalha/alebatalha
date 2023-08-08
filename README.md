@@ -13,7 +13,7 @@ What You'll Find Here
 
     Tech Blog: Occasionally, I like to share my thoughts and insights about programming, technology trends, and software development best practices. You can find my articles in the repository named "TechBlog."
 
-Connect with Me
+# **Connect with Me**
 
 I'm always excited to connect with fellow developers, learners, and enthusiasts. Feel free to reach out to me on social media or through email. Let's exchange ideas, collaborate, and make the tech world a better place together!
 
@@ -21,14 +21,14 @@ I'm always excited to connect with fellow developers, learners, and enthusiasts.
     LinkedIn: Alessandra Batalha
     Email:
 
-Get Involved
+# **Get Involved**
 
 If you're interested in any of the projects here, have suggestions for improvements, or just want to chat about tech, don't hesitate to get in touch. Contributions, feedback, and discussions are always welcome and highly appreciated.
 Let's Code the Future Together!
 
 The journey of coding is full of excitement, challenges, and endless opportunities. I'm thrilled to be a part of this amazing community, and I can't wait to see what the future holds. Let's keep coding, learning, and making a positive impact!
 
-Happy coding! 🚀
+### **Happy coding! 🚀**
 
 — Ale Batalha
 <!--

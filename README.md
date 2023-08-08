@@ -27,11 +27,7 @@ If you're interested in any of the projects here, have suggestions for improveme
 Let's Code the Future Together!
 
 The journey of coding is full of excitement, challenges, and endless opportunities. I'm thrilled to be a part of this amazing community, and I can't wait to see what the future holds. Let's keep coding, learning, and making a positive impact!
-<div>
-    <a href-"https://beacons.ia/alebatalha">
-    [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=alebatalha&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/alebatalha/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=alebatalha&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/alebatalha/github-readme-stats#gh-light-mode-only)
-</div>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=alebatalha&show_icons=true&theme=dark"

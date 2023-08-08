@@ -1,5 +1,5 @@
 
-# **Hey there! 👋** <1>
+# **Hey there! 👋** 
 
 Welcome to my GitHub profile! I'm Ale Batalha, and I'm passionate about creating and learning through code. This is where I share my projects, experiments, and contributions to the open-source community. Feel free to explore, collaborate, and get inspired!
 About Me

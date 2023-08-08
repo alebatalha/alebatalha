@@ -40,6 +40,7 @@ The journey of coding is full of excitement, challenges, and endless opportuniti
   />
   <img src="https://github-readme-stats.vercel.app/api?username=alebatalha&show_icons=true" />
 </picture>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebatlha&layout=compact)
 
 ### **Happy coding! 🚀**

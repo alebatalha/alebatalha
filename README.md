@@ -19,7 +19,7 @@ I'm always excited to connect with fellow developers, learners, and enthusiasts.
 
     BlueSky @alebatalha
     LinkedIn: Alessandra Batalha
-    Email: alessandrabatallha@gmail.com
+    Email: alessandrabatallha@gmail.com 
 
 # **Get Involved**
 

@@ -36,7 +36,7 @@ The journey of coding is full of excitement, challenges, and endless opportuniti
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=alebatalha&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: dracula)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=alebatalha&show_icons=true" />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebatalha&layout=compact)

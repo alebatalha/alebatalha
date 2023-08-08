@@ -29,22 +29,6 @@ Let's Code the Future Together!
 The journey of coding is full of excitement, challenges, and endless opportunities. I'm thrilled to be a part of this amazing community, and I can't wait to see what the future holds. Let's keep coding, learning, and making a positive impact!
 
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alebatalha&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=alebatalha&show_icons=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: dracula)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=alebatalha&show_icons=true" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alebatalha&layout=compact)
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alebatlha&show_icons=true)
-   </picture>
-
-
-
 ### **Happy coding! 🚀**
 
 — Ale Batalha

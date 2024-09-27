@@ -12,6 +12,8 @@ What You'll Find Here
     Personal Projects: I enjoy working on personal projects that challenge me and help me grow as a developer. From small utilities to more complex applications, I love experimenting with different ideas.
 
     Tech Blog: Occasionally, I like to share my thoughts and insights about programming, technology trends, and software development best practices. 
+
+[![roadmap.sh](https://roadmap.sh/card/wide/66db20c6c46f68d052a0aca6?variant=light&roadmaps=data-analyst%2Cpython%2Csql%2Ccomputer-science)](https://roadmap.sh)
     
 # **Connect with Me**
 
